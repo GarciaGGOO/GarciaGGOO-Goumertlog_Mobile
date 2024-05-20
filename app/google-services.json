@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259489194718",
+    "project_id": "goumertlog-mobile-new",
+    "storage_bucket": "goumertlog-mobile-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259489194718:android:398c549fdb9ddf2e78184f",
+        "android_client_info": {
+          "package_name": "com.example.goumertlog_mobile_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvb3wzVCxXowzM7ikSD5lzcx-b50vLFG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

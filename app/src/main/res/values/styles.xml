@@ -1,0 +1,21 @@
+<resources>
+    <!-- Estilo para o FAB -->
+    <style name="AppTheme.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
+        <!-- Define a cor de fundo do FAB -->
+        <item name="backgroundTint">@color/light_button_background</item>
+        <!-- Define a cor do ícone do FAB -->
+        <item name="tint">@color/light_button_red</item>
+        <!-- Define a cor do efeito de ondulação -->
+        <item name="rippleColor">@color/light_button_red</item>
+    </style>
+
+    <!-- Estilo para o FAB no tema escuro -->
+    <style name="AppTheme.FloatingActionButton.Dark" parent="Widget.MaterialComponents.FloatingActionButton">
+        <!-- Define a cor de fundo do FAB no tema escuro -->
+        <item name="backgroundTint">@color/dark_button_background</item>
+        <!-- Define a cor do ícone do FAB no tema escuro -->
+        <item name="tint">@color/dark_button_red</item>
+        <!-- Define a cor do efeito de ondulação no tema escuro -->
+        <item name="rippleColor">@color/dark_button_red</item>
+    </style>
+</resources>

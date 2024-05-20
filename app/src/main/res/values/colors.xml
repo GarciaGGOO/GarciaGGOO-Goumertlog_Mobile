@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_button_red">#FF0000</color> <!-- Vermelho para tema claro -->
+    <color name="dark_button_red">#800000</color> <!-- Vermelho escuro para tema escuro -->
+    <color name="light_button_background">#000000</color> <!-- Fundo preto para tema claro -->
+    <color name="dark_button_background">#FFFFFF</color> <!-- Fundo branco para tema escuro -->
+    <color name="burnt_red">#8b0000</color>
+</resources>
